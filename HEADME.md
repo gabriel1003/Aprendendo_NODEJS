@@ -18,7 +18,7 @@ Este repositório contém exemplos de código Node.js que desenvolvi como parte 
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone [https://github.com/gabriel1003/Aprendendo_NODEjs.git]
+   git clone [https://github.com/gabriel1003/Aprendendo_NodeJS.git]
 2. 
 Navegue até o diretório do projeto:
 Bash

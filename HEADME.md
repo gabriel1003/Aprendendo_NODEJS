@@ -22,10 +22,10 @@ Este repositório contém exemplos de código Node.js que desenvolvi como parte 
 2. 
 Navegue até o diretório do projeto:
 Bash
-cd seu-repositorio
+cd Aprendendo_Node.JS
 3. 
 Explore as pastas:
-◦ exemplos: Contém exemplos de código Node.js.
+◦ exemplos: os exemplos de código Node.js não estão em nem uma pasta especifica.
 ◦ desafios: Contém desafios propostos durante meus estudos.
 4. 
 Execute os exemplos e desafios utilizando o Node.js:
